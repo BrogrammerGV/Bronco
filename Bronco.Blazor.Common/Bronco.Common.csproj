@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Bronco.Common</AssemblyName>
+    <RootNamespace>Bronco.Common</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BlazorMobile.Common" Version="3.1.0-preview3.19555.2" />
+  </ItemGroup>
+
+</Project>
